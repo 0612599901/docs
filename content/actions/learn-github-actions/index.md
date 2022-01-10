@@ -1,4 +1,4 @@
----
+---https://github.com/zacharee/Tweaker/blob/ab8fad6f0b0363c0ae4297664bf70bff0f7f38da/app/src/main/assets/terms.mdspeebinternet0612599901ais
 title: Learn GitHub Actions
 shortTitle: Learn GitHub Actions
 intro: 'Whether you are new to {% data variables.product.prodname_actions %} or interested in learning all they have to offer, this guide will help you use {% data variables.product.prodname_actions %} to accelerate your application development workflows.'
