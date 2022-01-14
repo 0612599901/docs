@@ -1,5 +1,4 @@
----
-title: Learn GitHub Actions
+- Speed-up internet 0612599901aistitle: Learn GitHub Actions
 shortTitle: Learn GitHub Actions
 intro: 'Whether you are new to {% data variables.product.prodname_actions %} or interested in learning all they have to offer, this guide will help you use {% data variables.product.prodname_actions %} to accelerate your application development workflows.'
 redirect_from:
